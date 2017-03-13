@@ -19,5 +19,6 @@ public class B {
                 System.out.print(i+" ");
             flag=true;
         }
+        
     }
 }
